@@ -1,0 +1,30 @@
+body{
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fb5%2F9b%2Fc3%2Fb59bc3e8f6a174ef3dccb9426edf03b5.gif&f=1&nofb=1);
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-size: 70px;
+}
+
+h2{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+p{
+    color: white;
+    font-size: 20px;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+#hacker{
+    width: 362;
+    height: 297;
+}
