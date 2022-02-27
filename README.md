@@ -44,7 +44,10 @@
 - Cuando tengamos las modificaciones hechas haremos un 'git commit -m'
 - Y justo despues haremos el push al commit que hemos hecho 'git push --set-upstream origin alex-branch'
 
-![git push]()
+![git push](https://github.com/santygn/shared-repository/blob/9ef8ddf1f99c5c0ff27c4f6d3c93df0cd88bce38/multimedia/2.1.PNG)
+
+***
+
 
 
 
