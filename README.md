@@ -34,7 +34,7 @@
 ## Parte de Alex
 ***
 
-- Cuando el repositorio este creado por el miembro que lo creo, tendremos que lo pirmero clonar desde el git bash con el 'git clone'
+- Cuando el repositorio este creado por el miembro que lo creo, tendremos que clonar desde el git bash con el 'git clone'
 - Despues de clonarlo lo moveremos al directorio que ha creado Santy.
 - En esta parte habra que crear la rama que unira al repositorio de Santy con el 'git branch'
 - Nos movemos a la rama que hemos creado con 'cd alex-branch'
