@@ -36,7 +36,15 @@
 
 - Cuando el repositorio este creado por el miembro que lo creo, tendremos que lo pirmero clonar desde el git bash con el 'git clone'
 - Despues de clonarlo lo moveremos al directorio que ha creado Santy.
+- En esta parte habra que crear la rama que unira al repositorio de Santy con el 'git branch'
+- Nos movemos a la rama que hemos creado con 'cd alex-branch'
 
-![git clone] ()
+![git clone] (https://github.com/santygn/shared-repository/blob/2d1410aec444058d90a2b4b9c0fd34b29d1a3960/multimedia/alex.png)
+
+- Cuando tengamos las modificaciones hechas haremos un 'git commit -m'
+- Y justo despues haremos el push al commit que hemos hecho 'git push --set-upstream origin alex-branch'
+
+![git push] ()
+
 
 
