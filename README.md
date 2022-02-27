@@ -31,4 +31,12 @@
 
 ***
 
+## Parte de Alex
+***
+
+- Cuando el repositorio este creado por el miembro que lo creo, tendremos que lo pirmero clonar desde el git bash con el 'git clone'
+- Despues de clonarlo lo moveremos al directorio que ha creado Santy.
+
+![git clone] ()
+
 
