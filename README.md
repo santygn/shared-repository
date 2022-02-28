@@ -81,4 +81,24 @@
 -Para finalizar realizamos un `git push --set-upstream origin my-branch` para subir a la plataforma de git nuestros cambios
 ![git push](https://github.com/santygn/shared-repository/blob/4f47773264b7c53be8f5288fa160ce1abdc2994c/multimedia/marlo10.PNG)
 
+## Parte de Adrián
 
+- Despues de pedir y que nos cedieran permisos para este proyecto , nos disponemos a clonarlo con el comando `git clone https:...`
+
+-Una vez tenemos el repositorio en nustra máquina, debemos dirugirnos al repositorio con el comando `cd repo_name`
+
+-Creamos la rama que vamos a usar en mi caso `git branch Adrian-branch`
+
+-Nos dirigimos a la rama que hemos creado con el comando checkout
+
+-Para comprobar que la rama se nos ha creado correctamente y comprobamos con el comando `ls` el contenido de la carpeta (coincide con el que hay en la rama main del repositorio que hemos clonado)
+
+-Editaremos el archivo proyecto.html para aportar nuestra parte al proyecto con el comando de edicion `nano proyecto.html`, en mi parte he añadido los parrafos dentro del html.
+
+-Comprobamos que los cambios se han realizado, con el `git status` (el cual para que nos fuera bien deberia salir el archivo en rojo)
+
+-Debremos hacer un `git add proyecto.html`
+
+-Hacemos un commit para poder realizar el push `git commit -m "Comentario a añadir"`
+
+-Para finalizar realizamos un `git push --set-upstream origin my-branch` para subir a la plataforma de git nuestros cambios
