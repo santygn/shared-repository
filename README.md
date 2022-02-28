@@ -81,8 +81,10 @@
 -Para finalizar realizamos un `git push --set-upstream origin my-branch` para subir a la plataforma de git nuestros cambios
 ![git push](https://github.com/santygn/shared-repository/blob/4f47773264b7c53be8f5288fa160ce1abdc2994c/multimedia/marlo10.PNG)
 
-## Parte de Adrián
 
+***
+## Parte de Adrián
+***
 - Despues de pedir y que nos cedieran permisos para este proyecto , nos disponemos a clonarlo con el comando `git clone https:...`
 
 -Una vez tenemos el repositorio en nustra máquina, debemos dirugirnos al repositorio con el comando `cd repo_name`
