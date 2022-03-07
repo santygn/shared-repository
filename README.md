@@ -7,8 +7,7 @@
 ***
 ## Parte de Santiago
 ***
-- Una vez creado el repositorio hemos de clonarlo en nuestra conosla de git con el comando `git clone`
-- Tras clonarlo hemos de movernos a ese directorio con el comando `cd shared-repository`
+- Creamos el repositorio y hacemos git pull
 
 ![git clone](https://github.com/santygn/shared-repository/blob/d7a2a61ef02ff53a4847837481689af0da9682eb/multimedia/clone.png)
 
@@ -34,8 +33,7 @@
 ## Parte de Alex
 ***
 
-- Cuando el repositorio este creado por el miembro que lo creo, tendremos que clonar desde el git bash con el `git clone`
-- Despues de clonarlo lo moveremos al directorio que ha creado Santy.
+- Cuando el repositorio este creado hacemos git pull
 - En esta parte habra que crear la rama que unira al repositorio de Santy con el `git branch`
 - Nos movemos a la rama que hemos creado con `cd alex-branch`
 
@@ -51,7 +49,7 @@
 ## Parte de Marlo
 ***
 
-- Despues de pedir y que nos cedieran permisos para este proyecto , nos disponemos a clonarlo con el comando `git clone https:...`
+- Despues de pedir y que nos cedieran permisos para este proyecto , nos disponemos a hacer git pull
 ![git clone](https://github.com/santygn/shared-repository/blob/4f47773264b7c53be8f5288fa160ce1abdc2994c/multimedia/marlo1.PNG)
 
 - Una vez tenemos el repositorio en nustra máquina, debemos dirigirnos al repositorio con el comando `cd repo_name`
